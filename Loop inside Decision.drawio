@@ -1,0 +1,139 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="GoRuliaFGOkzSjrXhK7o">
+    <mxGraphModel dx="2066" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vxhoonB1blcbfgKh1ONd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-1" target="vxhoonB1blcbfgKh1ONd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-2" target="vxhoonB1blcbfgKh1ONd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-2" value="Output &quot;Would you like to play the &#39;Hello&#39; game? (yes or no): &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="303" y="260" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-4" target="vxhoonB1blcbfgKh1ONd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-4" value="Input userAnswer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-6" target="vxhoonB1blcbfgKh1ONd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DECLARE userAnswer AS STRING&lt;/div&gt;&lt;div&gt;DECLARE numberOfTimes AS INTEGER&lt;/div&gt;&lt;div&gt;DECLARE counter AS INTEGER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="180" width="234" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-9" target="vxhoonB1blcbfgKh1ONd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vxhoonB1blcbfgKh1ONd-25">
+          <mxGeometry x="-0.0448" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="vxhoonB1blcbfgKh1ONd-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-9" target="vxhoonB1blcbfgKh1ONd-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vxhoonB1blcbfgKh1ONd-35">
+          <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-9" value="Is userAnswer = &quot;yes&quot;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="420" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-10" target="vxhoonB1blcbfgKh1ONd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-10" value="Output&amp;nbsp;&quot;How many times would you like &#39;Hello&#39; to be printed?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-11" target="vxhoonB1blcbfgKh1ONd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-11" value="Input numberOfTimes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="510" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-13" target="vxhoonB1blcbfgKh1ONd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-13" value="Set counter = 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-15" target="vxhoonB1blcbfgKh1ONd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-19" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vxhoonB1blcbfgKh1ONd-18">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-15" target="vxhoonB1blcbfgKh1ONd-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-41" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vxhoonB1blcbfgKh1ONd-40">
+          <mxGeometry x="-0.2598" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-15" value="counter &amp;lt;= numberOfTimes?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="690" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-17" target="vxhoonB1blcbfgKh1ONd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-17" value="Output &quot;Hello&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-23" value="Set counter = counter + 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.5" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-27" value="Output &quot;Program Ended&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-32" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-34" value="Output &quot;Okay, maybe next time!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-39" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="750" width="87" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vxhoonB1blcbfgKh1ONd-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="690" as="sourcePoint" />
+            <mxPoint x="430" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-43" value="//Chase Carpenter&lt;div&gt;//10/5/25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-44" value="//This program will ask the user if they want to play&amp;nbsp;&lt;div&gt;the &quot;Hello&quot; game.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The program will analyze&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;whether the user says yes or no.&lt;/span&gt;&lt;div&gt;If the user says no, the program ends.&lt;/div&gt;&lt;div&gt;If the user says yes, the program asks how many times&amp;nbsp;&lt;/div&gt;&lt;div&gt;they want hello&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;to be printed. After the system prints&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;all the hellos to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;match the users request,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;the program ends.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="180" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vxhoonB1blcbfgKh1ONd-45" value="//Loop that asks the user to enter how&lt;div&gt;many times they want hello printed and loops until&lt;/div&gt;&lt;div&gt;the correct amount is printed.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="470" width="290" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
